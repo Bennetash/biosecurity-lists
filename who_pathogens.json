@@ -1,0 +1,27 @@
+{
+    "viruses": [
+        "Ebola virus",
+        "Marburg virus",
+        "SARS-CoV-2",
+        "Variola virus (viruela)",
+        "Lassa virus",
+        "Hendra virus",
+        "Nipah virus"
+    ],
+    "bacteria": [
+        "Bacillus anthracis (ántrax)",
+        "Yersinia pestis (peste)",
+        "Francisella tularensis (tularemia)",
+        "Burkholderia pseudomallei (melioidosis)"
+    ],
+    "toxins": [
+        "Botulinum neurotoxin",
+        "Ricin",
+        "Saxitoxin",
+        "Tetrodotoxin"
+    ],
+    "fungi": [
+        "Coccidioides immitis",
+        "Coccidioides posadasii"
+    ]
+}
